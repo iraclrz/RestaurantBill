@@ -1,0 +1,10 @@
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\bin\Debug\RestaurantBill.exe.config
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\bin\Debug\RestaurantBill.exe
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\bin\Debug\RestaurantBill.pdb
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\obj\Debug\RestaurantBill.csproj.AssemblyReference.cache
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\obj\Debug\RestaurantBill.Form1.resources
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\obj\Debug\RestaurantBill.Properties.Resources.resources
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\obj\Debug\RestaurantBill.csproj.GenerateResource.cache
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\obj\Debug\RestaurantBill.csproj.CoreCompileInputs.cache
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\obj\Debug\RestaurantBill.exe
+C:\Users\Ira Clariz\source\repos\RestaurantBill\RestaurantBill\obj\Debug\RestaurantBill.pdb
